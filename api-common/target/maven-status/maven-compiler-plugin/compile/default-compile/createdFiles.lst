@@ -1,0 +1,9 @@
+com\api\model\entity\InterfaceInfo.class
+com\api\model\entity\UserInterfaceInfo.class
+com\api\model\enums\InterfaceInfoStatusEnum.class
+com\api\service\InnerInterfaceInfoService.class
+com\api\model\vo\UserVO.class
+com\api\model\entity\InterfaceInfo$InterfaceInfoBuilder.class
+com\api\service\InnerUserService.class
+com\api\service\InnerUserInterfaceInfoService.class
+com\api\model\entity\User.class
