@@ -1,0 +1,8 @@
+
+”	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ñ²†yJ$884021cc-f9df-4e07-8149-80d9747bad82
+
+java:S1128"GRemove this unused import 'com.baomidou.mybatisplus.annotation.IdType'.(İàƒ©ùÿÿÿÿ8Ò£Ù¥ó1J$28ca28b3-c80f-4bc8-9821-27615274c49e
+“
+java:S1128"KRemove this unused import 'com.baomidou.mybatisplus.annotation.TableField'.(òëğıÿÿÿÿÿ8Ó£Ù¥ó1J$3b35b406-6bbf-451c-9740-f9b654373469
+‹
+java:S1128"HRemove this unused import 'com.baomidou.mybatisplus.annotation.TableId'.(ÕƒõÊ8Ó£Ù¥ó1J$0170e835-9bb4-443f-8b0c-fa96102079b7
